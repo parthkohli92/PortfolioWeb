@@ -17,6 +17,11 @@ header {
     margin: 20px;
 }
 
+.photo-carousel img {
+    max-width: 100%;
+    height: auto;
+}
+
 .blog {
     margin: 20px;
     padding: 20px;
@@ -38,20 +43,5 @@ header {
 .invitation {
     background-color: #ff99cc;
     border-radius: 10px;
-    text-align: center;
     padding: 20px;
-}
-
-invitation a {
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-    margin-left: 10px;
-}
-
-footer {
-    background-color: #ff99cc;
-    text-align: center;
-    padding: 10px 0;
-    color: white;
-}
+    text
